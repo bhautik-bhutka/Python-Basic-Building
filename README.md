@@ -1,2 +1,2 @@
 # Python-Basic-Building
-This is solution of assignment 1 of Master in Data Science Program.
+Please find here all the solutions of assignment of Master in Data Science 2.0.
