@@ -1,0 +1,63 @@
+'''Q.1) In python there are 2 types of comments.'''
+# Comment type 1
+'''Comment type 2'''
+
+
+
+'''Q.2) Variables are something which can stores the values. Variables must start with any alphabets, It can contains 
+numbers and "_" .'''
+
+
+'''Q.3) To convert data into another data type we simply use pre defined functions. For eg. str, int, float, list, set, dict, ect.'''
+
+
+
+'''Q.4) Below is a general expression we use to execute any python file.
+Provided - 1) We have written a text file which contains whole python code.
+           2) We have to save that file with extension of ".py"
+           3) In CLI use cd comnand to reach that folder and then use below expression.  '''
+# python file_name.py
+
+
+'''Q.5) '''
+my_list = [1, 2, 3, 4, 5]
+new_list = my_list[1:3]
+print(new_list)
+
+
+
+
+'''Q.6) Complex number is a combination of Real number and Imaginary Number. General expression in 
+math is "Number + Number(i)".
+In python we write as a "Number + Number(j). '''
+
+
+
+
+'''Q.7) Below is the correct way to declare a variable. '''
+age = 25
+
+
+
+
+'''Q.8) This variavle is belongs to "Float" data type. '''
+price = 9.99
+print(type(price))
+
+
+
+
+'''Q.9) '''
+name = "Bhautik Bhutka"
+print(name)
+
+
+
+'''Q.10)'''
+string = "Hello, World!"
+print(string[7:12])
+
+
+
+'''Q.11) Below expressions shows that I'm currently a student. '''
+is_student = True
